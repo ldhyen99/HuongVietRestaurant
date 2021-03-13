@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/HuongVietRestaurant/static/css/main.ce57a660.chunk.css",
+    "main.js": "/HuongVietRestaurant/static/js/main.3e91899e.chunk.js",
+    "main.js.map": "/HuongVietRestaurant/static/js/main.3e91899e.chunk.js.map",
+    "runtime-main.js": "/HuongVietRestaurant/static/js/runtime-main.ff7c00fb.js",
+    "runtime-main.js.map": "/HuongVietRestaurant/static/js/runtime-main.ff7c00fb.js.map",
+    "static/js/2.ecddc24e.chunk.js": "/HuongVietRestaurant/static/js/2.ecddc24e.chunk.js",
+    "static/js/2.ecddc24e.chunk.js.map": "/HuongVietRestaurant/static/js/2.ecddc24e.chunk.js.map",
+    "static/js/3.3e5e03a7.chunk.js": "/HuongVietRestaurant/static/js/3.3e5e03a7.chunk.js",
+    "static/js/3.3e5e03a7.chunk.js.map": "/HuongVietRestaurant/static/js/3.3e5e03a7.chunk.js.map",
+    "static/js/4.36b79e54.chunk.js": "/HuongVietRestaurant/static/js/4.36b79e54.chunk.js",
+    "static/js/4.36b79e54.chunk.js.map": "/HuongVietRestaurant/static/js/4.36b79e54.chunk.js.map",
+    "index.html": "/HuongVietRestaurant/index.html",
+    "precache-manifest.82b9c52308d1ea19dbcbef2f05154151.js": "/HuongVietRestaurant/precache-manifest.82b9c52308d1ea19dbcbef2f05154151.js",
+    "service-worker.js": "/HuongVietRestaurant/service-worker.js",
+    "static/css/main.ce57a660.chunk.css.map": "/HuongVietRestaurant/static/css/main.ce57a660.chunk.css.map",
+    "static/js/2.ecddc24e.chunk.js.LICENSE.txt": "/HuongVietRestaurant/static/js/2.ecddc24e.chunk.js.LICENSE.txt",
+    "static/media/slide01.jpg": "/HuongVietRestaurant/static/media/slide01.c4f2d6a3.jpg",
+    "static/media/slide02.jpg": "/HuongVietRestaurant/static/media/slide02.a834c25e.jpg",
+    "static/media/slider03.jpg": "/HuongVietRestaurant/static/media/slider03.6108a8f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff7c00fb.js",
+    "static/js/2.ecddc24e.chunk.js",
+    "static/css/main.ce57a660.chunk.css",
+    "static/js/main.3e91899e.chunk.js"
+  ]
+}
