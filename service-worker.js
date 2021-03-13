@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HuongVietRestaurant/precache-manifest.7c9ce7f1509f1258addbae95eabfe57a.js"
+  "/HuongVietRestaurant/precache-manifest.82b9c52308d1ea19dbcbef2f05154151.js"
 );
 
 self.addEventListener('message', (event) => {

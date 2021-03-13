@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a08f576b5ebd982ff80b037032a0c860",
+    "revision": "a0cd321cf1182f9e0370488e79203ca4",
     "url": "/HuongVietRestaurant/index.html"
   },
   {
-    "revision": "c87dbb5b6a97b054802e",
+    "revision": "4da1ff600cd614275d37",
     "url": "/HuongVietRestaurant/static/css/main.ce57a660.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HuongVietRestaurant/static/js/4.36b79e54.chunk.js"
   },
   {
-    "revision": "c87dbb5b6a97b054802e",
-    "url": "/HuongVietRestaurant/static/js/main.b7570753.chunk.js"
+    "revision": "4da1ff600cd614275d37",
+    "url": "/HuongVietRestaurant/static/js/main.3e91899e.chunk.js"
   },
   {
     "revision": "7257795aed532ec060e9",
